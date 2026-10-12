@@ -102,8 +102,8 @@ Inference: < 0.05 ms / flow            MSE Reconstruction Error vs p99 Threshold
 ### 1. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/rishurjaofficial973-cpu/Machine-Learning-Based-Intrusion-Detection-System-for-IoT-Networks.git
-cd Machine-Learning-Based-Intrusion-Detection-System-for-IoT-Networks
+git clone https://github.com/rishurjaofficial973-cpu/iot-ids-hybrid-ml.git
+cd iot-ids-hybrid-ml
 pip install -r requirements.txt
 ```
 
