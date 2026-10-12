@@ -1,0 +1,8 @@
+{
+  "reconstruction_threshold_p99": 0.062181856483221054,
+  "reconstruction_threshold_p95": 0.025830933824181557,
+  "mean_benign_mse": 0.008865214884281158,
+  "num_features": 25,
+  "bottleneck_dim": 12,
+  "autoencoder_type": "sklearn"
+}

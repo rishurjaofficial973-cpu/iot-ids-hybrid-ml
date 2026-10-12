@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets (Raw Edge-IIoTset is >6GB)
+data/raw/
+*.csv
+
+# Large Trained Model Binaries (>100MB exceeds GitHub push limits)
+models/*.joblib
+models/*.keras
+models/*.h5
+
+# Keep essential metadata JSONs
+!models/selected_features.json
+!models/ae_metadata.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit & IDE
+.streamlit/
+.vscode/
+.idea/

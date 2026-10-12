@@ -1,0 +1,140 @@
+{
+  "selected_features": [
+    "Tot sum",
+    "Tot size",
+    "Max",
+    "AVG",
+    "Header_Length",
+    "Rate",
+    "Number",
+    "IAT",
+    "ack_flag_number",
+    "Min",
+    "Time_To_Live",
+    "ack_count",
+    "Protocol Type",
+    "Std",
+    "HTTPS",
+    "TCP",
+    "Variance",
+    "psh_flag_number",
+    "syn_flag_number",
+    "rst_flag_number",
+    "fin_flag_number",
+    "UDP",
+    "ICMP",
+    "HTTP",
+    "DNS"
+  ],
+  "num_features": 25,
+  "ranking": [
+    {
+      "feature": "Tot sum",
+      "rf_importance": 0.12496012319129458,
+      "mi_score": 1.103781469148812,
+      "combined_score": 0.9999999483525803
+    },
+    {
+      "feature": "Tot size",
+      "rf_importance": 0.0740371514263092,
+      "mi_score": 0.9316131501804339,
+      "combined_score": 0.6930577687564494
+    },
+    {
+      "feature": "Max",
+      "rf_importance": 0.06455091564964809,
+      "mi_score": 1.006803124315434,
+      "combined_score": 0.6747496688128172
+    },
+    {
+      "feature": "AVG",
+      "rf_importance": 0.05896877118194764,
+      "mi_score": 0.9345004084436623,
+      "combined_score": 0.6217404271099082
+    },
+    {
+      "feature": "Header_Length",
+      "rf_importance": 0.052556579111344204,
+      "mi_score": 0.9148263887344648,
+      "combined_score": 0.5838171483772672
+    },
+    {
+      "feature": "Rate",
+      "rf_importance": 0.06048262234324021,
+      "mi_score": 0.7662086247030637,
+      "combined_score": 0.5680231168090657
+    },
+    {
+      "feature": "Number",
+      "rf_importance": 0.06462698419951503,
+      "mi_score": 0.6814377847246145,
+      "combined_score": 0.5572056456649402
+    },
+    {
+      "feature": "IAT",
+      "rf_importance": 0.05264375137257809,
+      "mi_score": 0.6579891413001455,
+      "combined_score": 0.4911603835689503
+    },
+    {
+      "feature": "ack_flag_number",
+      "rf_importance": 0.05178936503633354,
+      "mi_score": 0.6311859259514918,
+      "combined_score": 0.4773440876562577
+    },
+    {
+      "feature": "Min",
+      "rf_importance": 0.04559946584770161,
+      "mi_score": 0.5629908095546643,
+      "combined_score": 0.42290474954167756
+    },
+    {
+      "feature": "Time_To_Live",
+      "rf_importance": 0.028491813381481195,
+      "mi_score": 0.6131437323277118,
+      "combined_score": 0.35892273723482887
+    },
+    {
+      "feature": "ack_count",
+      "rf_importance": 0.028004962846432203,
+      "mi_score": 0.5961151397647253,
+      "combined_score": 0.35041370851627485
+    },
+    {
+      "feature": "Protocol Type",
+      "rf_importance": 0.04305684704646071,
+      "mi_score": 0.38215770034319707,
+      "combined_score": 0.3451619869836597
+    },
+    {
+      "feature": "Std",
+      "rf_importance": 0.026618178524777287,
+      "mi_score": 0.5960816251126189,
+      "combined_score": 0.34374173750724657
+    },
+    {
+      "feature": "HTTPS",
+      "rf_importance": 0.034407470057318,
+      "mi_score": 0.48083159097600037,
+      "combined_score": 0.3393831269003148
+    },
+    {
+      "feature": "TCP",
+      "rf_importance": 0.028510566251438045,
+      "mi_score": 0.5234480402986068,
+      "combined_score": 0.3265079220949234
+    },
+    {
+      "feature": "Variance",
+      "rf_importance": 0.018161527131705435,
+      "mi_score": 0.5956922600224135,
+      "combined_score": 0.30298882369535063
+    },
+    {
+      "feature": "psh_flag_number",
+      "rf_importance": 0.019200811677390437,
+      "mi_score": 0.45609490614028525,
+      "combined_score": 0.2573910685565061
+    }
+  ]
+}
